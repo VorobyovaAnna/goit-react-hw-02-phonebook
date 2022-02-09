@@ -36,7 +36,7 @@ state = {
 используй любой подходящий пакет, например [nanoid](https://www.npmjs.com/package/nanoid). После
 завершения этого шага, приложение должно выглядеть примерно так.
 
-![preview](./mockup/step-1.png)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/phonebook/mockup/step-1.png)
 
 ## Шаг 2
 
@@ -65,7 +65,7 @@ state = {
 
 После завершения этого шага, приложение должно выглядеть примерно так.
 
-![preview](./mockup/step-2.png)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/phonebook/mockup/step-2.png)
 
 ## Шаг 3
 
@@ -84,7 +84,7 @@ state = {
 }
 ```
 
-![preview](./mockup/step-3.gif)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/phonebook/mockup/step-3.gif)
 
 Когда мы работаем над новым функционалом, бывает удобно жестко закодировать некоторые данные в
 состояние. Это избавит от необходимости вручную вводить данные в интерфейсе для тестирования работы
@@ -138,10 +138,10 @@ state = {
 Запрети пользователю возможность добавлять контакты, имена которых уже есть в телефонной книге. При
 попытке выполнить такое действие выведи `alert` с предупреждением.
 
-![preview](./mockup/step-5.png)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/phonebook/mockup/step-5.png)
 
 ## Шаг 6
 
 Расширь функционал приложения, позволив пользователю удалять ранее сохраненные контакты.
 
-![preview](./mockup/step-6.gif)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/phonebook/mockup/step-6.gif)
